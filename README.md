@@ -1,20 +1,27 @@
+<!-- 헤더 -->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25)
+
 # 안녕하세요, 풀스택 개발자 황인찬입니다 👨‍💻
 
-## 🚀 About Me
-
-- 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요
-- 💼 Spring 백엔드 개발을 해왔어요
-- 📚 MySQL, API, Java 등 다양한 프로그래밍 언어와 기술을 숙련했습니다
-- 💡 RestAPI와 MariaDB, MongoDB를 활용하여 다양한 프로젝트를 성공적으로 수행했습니다
-- 🔍 항상 새로운 기술에 대한 호기심을 가지며 더 나은 솔루션을 찾아내는 능력을 가지고 있습니다
-- 🎯 주어진 업무에 몰입하여 최선을 다하고자 합니다
-- 👥 꼼꼼함을 기반으로 팀원들과 협력하여 업무 효율을 높이는 데 주력합니다
+> "몰입과 몰두의 가치를 추구하며 개발합니다."
 
 <br/>
 
-## 🛠️ 기술 스택
+## 🚀 About Me
 
-### 언어
+- 🌱 웹 개발 풀스택 및 클라우드를 학습중입니다.
+- 💼 Spring 백엔드 개발을 해왔습니다.
+- 📚 MySQL, API, Java 등 다양한 프로그래밍 언어와 기술을 숙련했습니다.
+- 💡 RestAPI와 MariaDB, MongoDB를 활용하여 다양한 프로젝트를 성공적으로 수행했습니다.
+- 🔍 항상 새로운 기술에 대한 호기심을 가지며 더 나은 솔루션을 찾아내는 능력을 가지고 있습니다.
+- 🎯 주어진 업무에 몰입하여 최선을 다하고자 합니다.
+- 👥 꼼꼼함을 기반으로 팀원들과 협력하여 업무 효율을 높이는 데 주력합니다.
+
+<br/>
+
+## 🛠️ Tech Stacks
+
+### 📋 Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -23,7 +30,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
-### 프런트엔드
+### 📚 Front-end
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -33,7 +40,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-### 백엔드
+### 📚 Back-end
 <div align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
@@ -41,14 +48,14 @@
   <img src="https://img.shields.io/badge/Stomp-000000?style=for-the-badge&logo=stomp&logoColor=white" alt="Stomp" />
 </div>
 
-### 데이터베이스
+### 💾 Databases
 <div align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-### 개발 도구
+### ⚙ IDEs
 <div align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
@@ -58,7 +65,7 @@
 
 <br/>
 
-## 📊 대표 프로젝트
+## 📊 Project
 
 <a href="slide1.JPG" target="_blank"><img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/></a>
 <br/>
@@ -74,8 +81,6 @@
 </div>
 
 <br/>
-
-> "몰입과 몰두의 가치를 추구하며 개발합니다."
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
